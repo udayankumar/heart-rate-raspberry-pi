@@ -1,0 +1,1 @@
+adafruit-ads1x15==1.0.1
